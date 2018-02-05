@@ -1,7 +1,13 @@
+
 /*
    main  css
 */
 
 .container{
+    background: green;
+}
+
+.container_inside{
+    color: grey;
     background: green;
 }
